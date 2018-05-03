@@ -22,10 +22,12 @@
   margin: 0 auto;
   padding-left: 5%;
   padding-right: 5%;
+  color: #000000;
 }
 
 .marketing-site-hero-content h1 {
   font-size: 50px;
+
 }
 
 .marketing-site-hero-content .button.round {
