@@ -1,0 +1,22 @@
+
+.featured-image-block-grid-header {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.featured-image-block {
+  margin-bottom: 100px;
+}
+
+.featured-image-block .featured-image-block-title {
+  font-weight: 2700;
+  margin-top: 30px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 1em;
+  color: #404040;
+}
+
+.featured-image-block a:hover p {
+  color: #1779ba;
+}
