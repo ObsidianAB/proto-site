@@ -1,7 +1,7 @@
 
 .marketing-site-hero {
   background: url( https://drive.google.com/uc?export=view&id=1nCXGwvqFVJs19K1-yFVyPdJxr_BidXPd ) top right no-repeat;
-  height: 65vh;
+  height: 85vh;
   background-size: cover;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -18,18 +18,18 @@
 }
 
 .marketing-site-hero-content {
-  max-width: 75rem;
+  max-width: 70rem;
   margin: 0 auto;
-  padding-left: 5%;
-  padding-right: 5%;
+  padding-left: 20%;
+  padding-right: 15%;
   color: #000000;
 }
 
 .marketing-site-hero-content h1 {
-  font-size: 50px;
+  font-size: 55px;
 }
   .marketing-site-hero-content p {
-    font-size: 18px;
+    font-size: 19px;
     color: #000000
 
 }
@@ -43,6 +43,7 @@
 
 @media screen and (min-width: 40em) {
   .marketing-site-hero-content {
-    padding-left: 50%;
+    padding-left: 0%;
+    padding-right: 60%;
   }
 }
