@@ -20,16 +20,16 @@
 .marketing-site-hero-content {
   max-width: 70rem;
   margin: 0 auto;
-  padding-left: 20%;
+  padding-left: 10%;
   padding-right: 15%;
   color: #000000;
 }
 
 .marketing-site-hero-content h1 {
-  font-size: 55px;
+  font-size: 70px;
 }
   .marketing-site-hero-content p {
-    font-size: 15px;
+    font-size: 20px;
     color: #000000
 
 }
@@ -44,6 +44,6 @@
 @media screen and (min-width: 40em) {
   .marketing-site-hero-content {
     padding-left: 0%;
-    padding-right: 75%;
+    padding-right: 45%;
   }
 }
